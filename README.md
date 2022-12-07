@@ -8,7 +8,7 @@
 
 <br>
 <br>
-# Results:
+<h1> Results: </h1>
 
 <table>
 <tr> <th> Strategy </th> <th> Portofolio Value Final </th> <th> Portofolio Value Final </th> <th> Portofolio Value Final </th></tr>
