@@ -1,12 +1,13 @@
 # QuantHackathon
 
 # Team S
-## Members : 
-### Name: Nazmus Sakib Ahmed  ;  Email: bsse1108@iit.du.ac.bd  (Team Leader)
-### Name: Inzamam-Ul-Huq Sobuz ;  Email: bsse1113@iit.du.ac.bd
-### Name: Ashraful Islam Shanto Sikder  ;  Email: bsse1124@iit.du.ac.bd
+### Members : 
+#### Name: Nazmus Sakib Ahmed  ;  Email: bsse1108@iit.du.ac.bd  (Team Leader)
+#### Name: Inzamam-Ul-Huq Sobuz ;  Email: bsse1113@iit.du.ac.bd
+#### Name: Ashraful Islam Shanto Sikder  ;  Email: bsse1124@iit.du.ac.bd
 
-
+<br>
+<br>
 <table>
 <tr> <th> Strategy </th> <th> Portofolio Value Final </th> <th> Portofolio Value Final </th> <th> Portofolio Value Final </th></tr>
 <tr><td>PolynomialRegressionWithMACD</td><td>109076.33</td><td>1.84578</td><td>-0.0236</td></tr>
